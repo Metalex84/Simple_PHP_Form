@@ -33,7 +33,7 @@ Luego abre tu navegador en: http://localhost:8000
 ### Opción 2: Apache/MAMP/XAMPP
 
 1. Copia el proyecto a la carpeta `htdocs` o `www`
-2. Accede a través de: http://localhost/myweb
+2. Accede a través de: http://localhost/myweb (donde `myweb` es el nombre de la app)
 
 ### Opción 3: Docker (opcional)
 
